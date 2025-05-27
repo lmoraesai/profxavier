@@ -1,0 +1,35 @@
+Vistos.
+
+Relatório dispensado, nos termos do artigo 38 da Lei 9.099/95. Passo a decidir.
+
+(Analisar e decidir sobre preliminares, se houver. Ex: "Rejeito a preliminar de [nome da preliminar] arguida, pois [breve motivo]." ou "Acolho a preliminar de [nome da preliminar], extinguindo o processo sem resolução do mérito por [breve motivo]." (Opcional: se a preliminar for complexa ou relevante para jurisprudência: "Sobre o tema da [nome da preliminar], a jurisprudência orienta: (buscar jurisprudência sobre [tema da preliminar] – se não encontrada, indicar no texto final: PESQUISAR JURISPRUDÊNCIA SOBRE [tema da preliminar])"))
+
+(Caso superadas as preliminares ou se não houver: "Presentes os pressupostos processuais e as condições da ação, passo à análise do mérito.")
+
+A parte autora alega que ([breve resumo da causa de pedir e dos fatos narrados na inicial]) e, por isso, requer ([listar os pedidos principais, incluindo eventuais danos materiais e, se houver, danos morais]).
+
+A parte ré, em sua defesa, sustenta que ([breve resumo dos argumentos da contestação]).
+
+(Se houve audiência de instrução: "Durante a instrução processual, foram ouvidas as partes e testemunhas, das quais se extrai que [principais pontos dos depoimentos relevantes para a decisão]. Os documentos juntados, analisados em conjunto com a prova oral, demonstram que [conclusão da análise probatória]." Se não houve instrução e o julgamento é baseado apenas em documentos: "Da análise dos documentos apresentados pelas partes, verifica-se que [principais pontos dos documentos relevantes para a decisão].")
+
+Quanto ao mérito, a controvérsia cinge-se em ([definir o ponto central da discussão]).
+
+(Analisar o pedido principal: "Com relação ao pedido de [natureza do pedido principal], entendo que [procede/não procede], uma vez que [fundamentação legal e fática sucinta, baseada nas provas]. (Para embasar esta conclusão sobre [natureza do pedido principal], colaciona-se o seguinte entendimento jurisprudencial: (buscar jurisprudência sobre [tema específico do pedido principal] – se não encontrada, indicar no texto final: PESQUISAR JURISPRUDÊNCIA SOBRE [tema específico do pedido principal]))")
+
+(Se houver pedido de danos materiais: "No que tange ao pedido de indenização por danos materiais, no valor de R$ [valor pleiteado], este [procede/procede em parte no valor de R$ (valor concedido)/não procede], pois [fundamentação sobre a comprovação do dano e do valor, ou a ausência de comprovação]. (A jurisprudência em casos semelhantes de [tipo de dano material] tem se posicionado da seguinte forma: (buscar jurisprudência sobre [tipo de dano material específico do caso] – se não encontrada, indicar no texto final: PESQUISAR JURISPRUDÊNCIA SOBRE [tipo de dano material específico do caso]))")
+
+(Se houver pedido de danos morais: "Referente ao pedido de indenização por danos morais, este [procede/não procede]. [Se procede: A situação vivenciada pela parte autora ultrapassou o mero dissabor cotidiano, configurando efetiva lesão a direito da personalidade, notadamente por [breve descrição do abalo sofrido]. Assim, considerando as circunstâncias do caso, a capacidade econômica das partes e o caráter punitivo-pedagógico da medida, fixo a indenização em R$ (valor concedido)]. [Se não procede: Embora possa ter havido aborrecimento, a situação narrada não se mostrou suficiente para caracterizar dano moral indenizável, tratando-se de mero dissabor não passível de reparação pecuniária.] (Acerca da configuração do dano moral em situações análogas e/ou dos critérios para fixação do quantum indenizatório, destacam-se os seguintes julgados: (buscar jurisprudência sobre [configuração de dano moral no contexto do caso e/ou quantum indenizatório para casos semelhantes] – se não encontrada, indicar no texto final: PESQUISAR JURISPRUDÊNCIA SOBRE [configuração de dano moral no contexto do caso e/ou quantum indenizatório para casos semelhantes]))")
+
+Ante o exposto, JULGO ([PROCEDENTE/PARCIALMENTE PROCEDENTE/IMPROCEDENTE]) a pretensão autoral para:
+
+(Se procedente ou parcialmente procedente, listar as condenações ou declarações. Exemplo para condenação em dinheiro: "CONDENAR a parte ré a pagar à parte autora a quantia de R$ [valor total da condenação], referente a [especificar a que se refere cada parte do valor, ex: danos materiais e/ou danos morais].")
+
+(Definir correção monetária e juros para os valores da condenação. Ex: "O valor da condenação deverá ser corrigido monetariamente pelo [índice usual, ex: Tabela Prática do TJSP] a partir de [data do evento danoso/ajuizamento da ação/data da fixação para danos morais] e acrescido de juros de mora de 1% (um por cento) ao mês a contar da [data da citação/data do evento danoso para responsabilidade extracontratual].")
+
+Sem custas processuais e honorários advocatícios nesta fase, nos termos do artigo 55 da Lei 9.099/95.
+
+O prazo para interposição de recurso é de 10 (dez) dias úteis, devendo o preparo ser efetuado, independentemente de intimação, nas 48 (quarenta e oito) horas seguintes à interposição, sob pena de deserção, ressalvada a hipótese de gratuidade de justiça.
+
+Transitada em julgado esta decisão, (adotar a providência cabível, ex: "arquivem-se os autos com as cautelas de praxe." ou "intime-se a parte ré para cumprimento voluntário da obrigação no prazo de 15 dias, sob pena de multa de 10% sobre o valor da condenação, nos termos do art. 523, §1º, do CPC, aplicável subsidiariamente.").
+
+Publique-se. Registre-se. Intimem-se.
