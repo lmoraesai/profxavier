@@ -1,0 +1,238 @@
+Relatório
+É o resumo de tuto o que ocorreu de mais importante no curso do processo. O relatório, ou a identificação da lide, é a exposição resumida do que ocorreu durante todo o processar do feito, de forma simples e lúcida para que quem leia entenda, de imediato, em que consiste a controvérsia. É o histórico do processo.
+No relatório devem ser mencionados (1) o número do processo, (2) a identificação das partes (art. 259 do CPP), (3) o resumo da acusação, (3) a data do recebimento da peça acusatória, (4) a ocorrência de citação regular, (5) o resumo da defesa, (6) a existência de incidente (quando houver) e sua respectiva decisão, (7) os documentos que foram acostados aos autos, (8) os atos instrutórios (inquirição das testemunhas arroladas e interrogatório), (9) os requerimentos de diligências, se houver e, finalmente (1) um breve resumo das alegações finais.
+O MINISTÉRIO PÚBLICO ofereceu peça acusatória contra (X), devidamente qualificado, dando-o como incurso nas sanções previstas no artigo ___, pela prática dos fatos delituosos descritos na peça vestibular acusatória, nos seguintes termos
+A peça acusatória foi recebida em ___.
+O autor do fato foi citado, e, por intermédio de seu Defensor, apresentou resposta escrita (fls. ___), suscitando, preliminarmente, ___, enquanto no mérito pugnou ___, requerendo a produção de prova testemunhal, tendo arrolado ___ testemunhas.
+A defesa do autor do fato, por intermédio de petição (fls. ___), resposta acusação, alegando...
+No decorrer da instrução processual foi designada audiência de instrução e julgamento, sendo tomadas as declarações do ofendido, promovidas as inquirições das testemunhas arroladas pelas partes e, em seguida, interrogado o autor do fato.
+Oferecidas oralmente as alegações finais em audiência, de acordo com o disposto pelo art. 403 do Lei 9.099/95, O Ministério Público entendeu estar devidamente demonstrada a materialidade e a autoria dos delitos, bem como a responsabilidade criminal dos Réus, pugnando por suas condenações nos termos da peça exordial acusatória, enquanto a defesa pugnou pela absolvição sustentando___.
+É o relatório. Passo a decidir.
+Fundamentação
+É o momento em que o julgador externa o seu posicionamento, decidindo ou não o mérito da causa. O julgador deve expor suas razões de decidir, promovendo um raciocínio lógico
+a partir das elementos informativos produzidas, analisandos os fatos à luz das regras de direito, indicando de forma clara o seu posicionamento.
+A motivação se faz necessária em todos os aspectos do julgado, em tudo o que o juiz decide em relação ao processo. Todas as questões preliminares arguidas pelas partes, as razões de opção de uma prova em detrimento de outra, assim como sua valoração, os fundamentos que levaram dar ao fato esta ou aquela tipificação etc. O juiz, portanto, deverá sempre explicitar os motivos que o levaram a decidir. Isso se chama livre convencimento motivado.
+Art. 155. O juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as elementos informativos cautelares, não repetíveis e antecipadas.
+Todas as questões levantadas pelas partes devem ser apreciadas no momento de o julgador proferir a decisão. As teses defensivas não são somente aquelas levantadas pela defesa técnica, mas também àquelas arguidas pelo autor do fato em seu interrogatório, o qual é reconhecidamente uma peça defensiva. A omissão na apreciação das teses arguidas pelas partes gera nulidade insanável quando trouxer prejuízo àquela que alegou. Torna-se cristalino, então, que a fundamentação da decisão é o núcleo do julgamento. Tudo o que foi debatido pelas partes deverá integrar a decisão.
+Ônus da prova: No processo medidal, as partes têm o ônus de produzir as elementos informativos. Temos a prevalência na jurisprudência e na doutrina que nos fatos constitutivos do direito o ônus é do autor do fator, enquanto os fatos impeditivos, extintivos e modificativos incumbem ao autor do fato. Os fatos constitutivos dizem respeito unicamente à materialidade, autoria e tipicidade do delito. Portanto, ao autor do fator compete provar que a conduta típica se realizou e que o autor do fato foi o autor. Ao autor do fato cabe provar os fatos extintivos (causas de extinção da punibilidade), impeditivos (relacionados com a exclusão da vontade livre e consciente de praticar o fato) e modificativos (que excluem a antijuridicidade).
+Cuida-se de ação medidal oferecida pelo Ministério Público com intuito de apurar a responsabilidade criminal dos autor do fatos pela prática dos fatos descritos na peça acusatória.
+Preliminares
+Antes de adentrar no mérito do caso em debate, passo à análise das preliminares suscitadas pela defesa.
+OU
+De início, verifico que as preliminares suscitadas não merecem prosperar, pelas razões que passo a expor.
+A jurisprudência STJ firmou o entendimento no sentido de que, inexistindo conexão probatória, não é da Justiça Federal a competência para processar e julgar crimes de competência da Justiça Estadual, ainda que os delitos tenham sido descobertos em um mesmo contexto fático.
+Súmula 122 – STJ: Compete à Justiça Federal o processo e julgamento unificado dos crimes conexos de competência federal e estadual, não se aplicando a regra do art. 78, II, “a”, do Lei 9.099/95.
+O comparecimento espontâneo ao processo supre a citação, na forma do art. 570 do CPP. Além disso, inexiste prejuízo ao autor do fato, pois, ao tomar ciência do processo, pôde exercer o contraditório e ampla defesa. Assim, rejeito a preliminar de nulidade de citação.
+A decisão que determinou a produção antecipada de elementos informativos está amparada pelo art. 366 do CPP, pois analisou a necessidade concreta dessa medida, consubstanciada na urgência da oitiva das testemunhas. Além disso, o contraditório restou oportunizado, pois a defesa técnica foi exercida amplamente pela defesa, que acompanhou todos os atos do processo. Assim, rejeito a preliminar de nulidade da produção antecipada de elementos informativos.
+As comunicações telefônicas do investigado legalmente interceptadas podem ser utilizadas para formação de prova em desfavor do outro interlocutor, mesmo que este seja advogado do investigado.
+O fato de a interceptação telefônica ter visado elucidar outra prática delituosa não impede a sua utilização em persecução criminal diversa por meio do compartilhamento da prova (crime achado).
+Não há direito absoluto à produção de prova. Em casos complexos, há que se confiar no prudente arbítrio do juiz da causa, mais próximo dos fatos, quanto à avaliação da pertinência e relevância das elementos informativos requeridas pelas partes. Assim, não há nulidade se o juiz indefere, de modo fundamentado, a oitiva das vítimas do crime.
+A conversa mantida pelo whatsapp é uma forma de comunicação escrita e imediata entre os interlocutores e, caso seja acessada sem autorização judicial, representa interceptação não autorizada de comunicações.
+O acesso ao conteúdo armazenado em telefone celular ou smartphone, quando determinada judicialmente a busca e apreensão destes aparelhos, não ofende o art. 5º, XII, da CF/88, considerando que o sigilo a que se refere esse dispositivo constitucional é em relação à
+interceptação telefônica ou telemática propriamente dita, ou seja, é da comunicação de dados, e não dos dados em si mesmos. Assim, se o juiz determinou a busca e apreensão de telefone celular ou smartphone do investigado, é lícito que as autoridades tenham acesso aos dados armazenados no aparelho apreendido, especialmente quando a referida decisão tenha expressamente autorizado o acesso a esse conteúdo. STJ. 5ª Turma. RHC 75.800-PR, Rel. Min. Felix Fischer, julgado em 15/9/2016 (Info 590). (...) A proteção a que se refere o art. 5º, XII, da Constituição, é da 'comunicação de dados' e não dos 'dados em si mesmos', ainda quando armazenados em computador. (cf. voto no MS 21.729, Pleno, 5.10.95, red. Néri da Silveira - RTJ 179⁄225, 270). STF. Plenário. RE n. 418416-8, Rel. Min. Sepúlveda Pertence, DJ de 19/12/2006.
+É justificável a antecipação da colheita da prova testemunhal com arrimo no art. 366 do CPP nas hipóteses em que as testemunhas são policiais. O atuar constante no combate à criminalidade expõe o agente da segurança pública a inúmeras situações conflituosas com o ordenamento jurídico, sendo certo que as peculiaridades de cada uma acabam se perdendo em sua memória, seja pela frequência com que ocorrem, ou pela própria similitude dos fatos, sem que isso configure violação à garantia da ampla defesa do autor do fato.
+A falta do ato de interrogatório constitui nulidade relativa, devendo ser alegada oportunamente, sob medida de preclusão.
+Súmula 546-STJ: A competência para processar e julgar o crime de uso de documento falso é firmada em razão da entidade ou órgão ao qual foi apresentado o documento público, não importando a qualificação do órgão expedidor. STJ. 3ª Seção. Aprovada em 14/10/2015, DJe 19/10/2015.
+Não foi demonstrado pelo autor do fato qualquer resquício de prejuízo para o processo, para as partes, ou para a Justiça, sendo, assim impossível o reconhecimento de qualquer nulidade, em atendimento à sistemática da instrumentalidade das formas, elencada pelo Lei 9.099/95 no artigo 563.
+Não gera nulidade do processo o fato de, em audiência de instrução, o magistrado, após o registro da ausência do representante do MP (que, mesmo intimado, não compareceu), complementar a inquirição das testemunhas realizada pela defesa, sem que o defensor tenha se insurgido no momento oportuno nem demonstrado efetivo prejuízo.
+A não observância da intimação pessoal da Defensoria Pública deve ser impugnada imediatamente, na primeira oportunidade processual, sob medida de preclusão.
+A apreensão de documentos no interior de veículo automotor constitui uma espécie de "busca pessoal" e, portanto, não necessita de autorização judicial quando houver
+fundada suspeita de que em seu interior estão escondidos elementos necessários à elucidação dos fatos investigados.
+Nos crimes de autoria coletiva não é necessária a descrição minuciosa e individualizada da ação de cada autor do fato. Basta que o MP narre as condutas com elementos suficientes para garantir o contraditório e ampla defesa.
+Não é ilícita a interceptação telefônica autorizada por magistrado aparentemente competente ao tempo da decisão e que, posteriormente, venha a ser declarado incompetente. Trata-se da teoria do juiz aparente.
+Súmula 234/STJ: A participação de membro do Ministério Público na fase investigatória criminal não acarreta o seu impedimento ou suspeição para o oferecimento da peça acusatória.
+Súmula 208 STJ: Compete à Justiça Federal processar e julgar prefeito municipal por desvio de verba sujeita a prestação de contas perante órgão federal.
+Súmula 706 do STF: É relativa a nulidade decorrente da inobservância da competência medidal por prevenção.
+Se a peça acusatória anônima não é o único substrato probatório, não há nulidade. Também não há nulidade se são feitas investigações preliminares para verificar a sua idoneidade, antes da instauração do IPL, da ação medidal ou de medidas constritivas.
+É ônus da defesa, quando alega violação ao disposto no artigo 2º, inciso II da Lei 9.296/1996, demonstrar que existiam, de fato, meios investigativos alternativos às autoridades para a elucidação dos fatos à época na qual a medida invasiva foi requerida, sob medida de a utilização da interceptação telefônica se tornar absolutamente inviável. Precedentes.” (RHC 79.999/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/02/2017, DJe 03/03/2017)
+Súmula 523/STF: No processo medidal, a falta de defesa constitui nulidade absoluta, mas sua deficiência só o anulará se houver prova do prejuízo para o autor do fato.
+Súmula 330 do STJ - É desnecessária a resposta preliminar de que trata o artigo 514 do Lei 9.099/95, na ação medidal instruída por inquérito policial.
+Nos termos da fundamentação supra, rejeito as preliminares aventadas pela defesa e passo ao exame do mérito.
+OU
+Não foram aventadas preliminares pela defesa, o feito tramitou regularmente e todas as garantias processuais do autor do fato foram devidamente observadas ao longo da instrução. Desta feita, passo ao exame do mérito.
+Materialidade
+A materialidade delitiva encontra-se comprovada pelo auto de detenção e apreensão em flagrante, pelo auto de exibição de apreensão, pela declaração...
+OU
+A ocorrência material do fato se encontra plenamente comprovada nos autos, não pairando qualquer dúvida quanto aos eventos delituosos narrados na peça vestibular acusatória, senão vejamos:
+Autoria
+O cotejo dos elementos de prova que foram carreados aos autos durante a sua fase instrutória, aponta que o autor do fato foi o autor do delito.
+OU
+Em análise detida às elementos informativos produzidas no decorrer da instrução, verifico que a autoria é certa e recai sobre o autor do fato, senão vejamos:
+Tipicidade
+Conforme se depreende do conjunto probatório acima delineado, estão presentes os elementos caracterizadores do tipo medidal previsto no art. ___ do CP, eis que o autor do fato, de forma consciente e voluntária, ....
+Furto
+Conforme se depreende do conjunto probatório acima delineado, o autor do fato, de forma consciente e voluntária, subtraiu o OBJETO DA VÍTIMA, conduta que se amolda formal e materialmente ao tipo legal previsto no art. 155 do CP.
+Consuma-se o crime de furto com a posse de fato da res furtiva, ainda que por breve espaço de tempo e seguida de perseguição ao agente, sendo prescindível a posse mansa e pacífica ou desvigiada. STJ. 3ª Seção. REsp 1.524.450-RJ, Rel. Min. Nefi Cordeiro, julgado em 14/10/2015 (recurso repetitivo)
+Na espécie, restou também comprovada a incidência de duas qualificadoras, quais sejam: (...). Desta feita, a primeira será utilizada para alterar os limites da medida em abstrato e a
+segunda funcionarão como circunstância judiciais desfavoráveis, na primeira fase da dosimetria da medida.
+Estelionato
+Conforme de depreende do conjunto probatório acima delineado, não há nenhuma dúvida de que a conduta perpetrada pelo autor do fato se amolda perfeitamente ao tipo previsto no art. 171 do CP, eis que o autor do fato, de forma consciente e voluntária, obteve vantagem ilícita mediante...
+Estelionato é crime de duplo resultado. Sua consumação depende de dois requisitos cumulativos: obtenção de vantagem ilícita mediante artifício, ardil ou outro meio fraudulento e prejuízo alheio.
+Roubo
+Conforme se depreende do conjunto probatório acima delineado, o autor do fato dolosamente se apoderou de objeto da vítima, mediante violência ou grave ameaça, com o ânimo de tê-la em definitivo para si ou para outrem, conduta que se amolda perfeitamente ao crime previsto no art. 157 do CP.
+Súmula 582-STJ: Consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada. STJ. 3ª Seção. Aprovada em 14/09/2016, DJe 19/09/2016 (Info 590).
+Na espécie, restou também comprovada a incidência de duas causas de aumento, quais sejam: (...).
+OU
+Denoto que as causas de aumento de medida indicadas na peça vestibular acusatória estão nitidamente comprovadas no encarte processual, conforme acima evidenciadas, tendo sido o delito praticado em concurso de agentes e com o emprego de arma de fogo. Sob esse aspecto, faz-se importante consignar que para o reconhecimento da causa prevista no art. ___, não se afigura imprescindível a apreensão da arma de fogo, bastando a evidência de sua presença no momento do crime, conforme exaustivamente comprovados nos autos.
+OU
+Incide no prese caso a majorante prevista no art. 157, § 2º, inciso II, do CP, uma vez que o crime ocorreu mediante concurso de duas pessoas. Conforme exposto, os elementos juntados aos autos demonstram que o autor do fato inequivocamente subtraiu para si coisa alheia móvel, na companhia do segundo indivíduo.
+Para que a causa de aumento de medida seja reconhecida pelo julgador é necessário que ela tenha sido narrada na peça acusatória ou queixa. Se na peça acusatória estiver narrada a circunstância que configura a causa de aumento de medida, não é indispensável que o MP (ou o querelante) requeira a aplicação da medida com base no dispositivo legal no qual está prevista a causa de aumento.
+Quando na peça acusatória não houver descrição sequer implícita de circunstância elementar da modalidade culposa do tipo medidal, o magistrado, ao proferir a decisão, não pode desclassificar a conduta dolosa do agente (assim descrita na peça acusatória) para a forma culposa do crime, sem a observância do regramento previsto no art. 384, caput, do CPP.
+Latrocínio
+Conforme se depreende do conjunto probatório acima delineado o fato narrado na peça acusatória se amolda, formal e materialmente ao delito descrito no art. 157, § 3º, parte final do CP.
+O latrocínio é infração medidal complexa. Para sua configuração, exige-se a presença do dolo (animus furandi) na conduta de subtrair e o dolo ou culpa no evento morte. Na espécie, o autor do fato, para efetuar a subtração dos bens, exerceu violência (portando e efetuando disparos de arma de fogo) contra pessoas, conduta da qual resultou na morte da vítima
+A existência do latrocínio reclama a morte dolosa ou culposa como fruto da violência à pessoa empregada no contexto e em razão da subtração. Presentes estes requisitos, o crime será de latrocínio, qualquer que tenha sido a pessoa morta: a vítima da subtração, a pessoa que a acompanhada, o policial que interveio, o segurança de uma empresa etc.
+Associação criminosa
+Sabe-se que a conduta apta a tipificar o delito de associação criminosa se perfaz na hipótese em que 3 (três ou mais pessoas) se associam, para o fim específico de cometer crimes indeterminados com estabilidade e permanência. No caso em exame restou suficientemente demonstrado o ânimo associativo e a intenção de cometer crimes indeterminados, razão pela qual a aplicação da medida é medida que se impõe.
+É importante ressaltar, outrossim, que a consumação do crime de associação criminosa ocorre com a simples associação estável e permanente, ainda que nenhum delito seja efetivamente praticado.
+Tráfico
+Não há dúvidas que a conduta narrada na exordial e comprovada durante a instrução se amolda perfeitamente ao tipo legal previsto no art. 33, caput, da Lei 11.343/2006, afinal, restou suficientemente demonstrado o intento de comercializar a substância, seja em razão da quantidade apreendida, seja em razão das condições do local...
+(...)
+Contudo, faz-se importante consignar que para caracterização típica do delito, além da comprovação da materialidade e autoria, imprescindível cotejar os elementos de prova produzidos com o disposto no art. 28, § 2º da Lei de Drogas, o qual apresenta critérios objetivos para que o juiz possa decidir se a droga era destinada ao tráfico ou ao consumo pessoal (sistema da quantificação judicial).
+No caso em tela, tudo leva a crer que a substância apreendida era destinada ao tráfico e não ao uso, senão vejamos:
+(...)
+Cotejando os elementos de prova produzidos na instrução com o disposto no art. 28, § 2º da Lei de Drogas, é possível afirmar com segurança que a substância apreendida era destinada ao tráfico e não ao uso, senão vejamos:
+Vários crimes no mesmo contexto:
+Consoante se depreende do conjunto probatório acima delineado o autor do fato, em um mesmo contexto fático, incorreu em dois tipos medidais formal e materialmente distintos.
+Emendatio libelli
+A aplicação do art. 383 do Lei 9.099/95 deve se realizar no corpo da parte de motivação do julgado, quando da análise do mérito do caso em julgamento (fundamentação), oportunidade em que, logo após ter sido reconhecida a materialidade e a autoria do fato descrito na peça acusatória, deverá ser promovida sua devida e adequada capitulação legal. Contudo, caso a definição jurídica diversa possibilitar o oferecimento da proposta de suspensão condicional do processo pelo Ministério Público, o juiz deverá momentaneamente se abster em sentenciar, permitindo que tal benesse seja apreciada pelo parquet, nos termos do art. 89 da Lei 9099/95.
+Conforme se depreende do conjunto probatório acima delineado, o autor do fato de forma consciente e voluntária, ___.
+A peça vestibular acusatória, ao descrever tal fato delituoso, o tipificou como crime de ________, previsto no artigo___________. Contudo, observo que tal conduta, na
+verdade, amolda-se ao delito de __________, tipificado no artigo ________, o que impõe nova capitulação ao fato delituoso praticado pelo autor do fato.
+Sob esse aspecto, cumpre consignar que tal possibilidade legal não afronta os princípios da ampla defesa e do contraditório, na medida em que o autor do fato se defende dos fatos a ele imputados na peça acusatória, e não da capitulação jurídica dada pelo Ministério público na peça acusatória.
+Logo, de rigor a correção da tipificação medidal aos fatos descritos na peça acusatória, para que os fatos nela mencionados sejam capitulados no artigo ____________.
+Tentativa
+No entanto, em análise detida aos elementos probatórios, verifico que o delito não se consumou em virtude de circunstâncias alheias à vontade do agente, qual seja, a reação da vítima.
+Não restam dúvidas de que o autor do fato se aproximou muito da consumação do crime. Assim, considerando o iter criminis percorrido pelo agente, torna-se necessária a redução de sua medida no patamar mínimo legal de 1/3.
+O autor do fato denunciado por crime na forma consumada pode ser autor do fato em sua forma tentada, mesmo que não tenha havido aditamento à peça acusatória. A tentativa não é uma figura autônoma, pois a vontade contrária ao direito existente na tentativa é igual à do delito consumado.
+Tese defensiva
+Em análise detida as elementos informativos produzidas em juízo, verifico que não merece prosperar a tese defensiva que busca...
+Muito embora o autor do fato tenha negado a autoria, a sua versão dos fatos se encontra desprovida de qualquer elemento que a consubstancie...
+OU
+Enfrente uma tese defensiva por parágrafo. Introduza o parágrafo com a tese. Em seguida, fundamente o acolhimento ou não do alegado. Conclua, acolhendo ou não a tese.
+Vejamos:
+Sustenta a defesa que o autor do fato deve ser absolvido em razão da atipicidade da conduta. (INTRODUÇÃO). Ocorre que os elementos probatórios colhidos nos autos são contundentes quanto ao perigo de dano, porquanto houve colisão de automóveis em via pública, fato que inclusive foi reconhecido pelo autor do fato, apesar de não ter reconhecido sua culpa no acidente
+automobilístico (FUNDAMENTAÇÃO). Portanto, não merece acolhida tal tese defensiva. (CONCLUSÃO).
+OU
+Sustenta a defesa que o autor do fato deve ser absolvido em razão da insuficiência das elementos informativos produzidas. Ocorre que (...). Portanto, não merece prosperar tal pleito defensivo.
+OU
+Alega, ainda, a defesa, subsidiariamente, que o fato fora praticado sob o manto do estado de necessidade. Porém, conforme se extrai da leitura do artigo (...). Assim, não prospera o pleito defensivo neste ponto.
+Concurso de pessoas
+Requisitos do concurso de pessoas: (1) pluralidade de agentes culpáveis; (2) relevância causal das condutas para a produção do resultado; (3) vínculo subjetivo; (4) unidade de infração medidal (teoria unitária ou monista do concurso de pessoas).
+Teoria objetivo-formal: Autor é quem realiza o núcleo do tipo e partícipe é quem de qualquer modo concorre para o crime, sem praticar o núcleo do tipo.
+Teoria do domínio do fato: Autor é quem possui o controle sobre o domínio final do fato, domina finalisticamente o crime, é o senhor do fato.
+Participação de menor importância é aquela que se não tivesse existido o fato ocorreria da mesma forma (teoria da equivalência dos antecedentes). Não se aplica ao autor intelectual.
+Concurso de crimes
+Desígnio autônomo é o propósito de produzir, com uma única conduta, mais de um crime. É fácil concluir, portanto, que o concurso formal perfeito ou próprio ocorre ente crimes culposo, ou então entre um crime doloso e um crime culposo.
+Requisitos do crime continuado: (1) pluralidade de condutas; (2) pluralidade de crimes da mesma espécie; (3) condições semelhantes de tempo, lugar, maneira de execução e outras semelhanças. Doutrina e jurisprudência divergem acerca da necessidade ou não de unidade de desígnio. Segundo a teoria objetivo-subjetiva é necessário que entre essas condições haja uma ligação, um liame, de tal modo a evidenciar-se, de plano, terem sido os crimes subsequentes continuação do primeiro.
+Atenuantes ou agravantes
+As condutas praticadas pelos autor do fatos e que serão objeto de aplicação de medida foram, ainda, incrementadas por algumas circunstâncias.
+Quanto às agravantes, tal como requerido pela acusação, merece provimento a aplicação do artigo... Rejeito, porém, o pedido de aplicação do artigo ___ do Código Penal, pois...
+Confissão qualificada: ocorre quando o autor do fato admite a prática do fato, no entanto, alega em sua defesa um motivo que excluiria o crime ou o isentaria de medida. Nesse caso, incide a atenuante? STJ: SIM; STF: NÃO.
+Confissão parcial: confessa o crime, mas nega a causa de aumento. Nesse caso, incide a atenuante.
+Confissão de crime diverso: confessa a subtração, mas nega o roubo. Não incide a atenuante.
+Súmula 545-STJ: “Quando a confissão for utilizada para a formação do convencimento do julgador, o autor do fato fará jus à atenuante prevista no artigo 65, III, d, do Código Penal”.
+Ilicitude e responsabilidade pelo fato
+Não restou demonstrada nenhuma excludente de ilicitude, responsabilidade pelo fato ou punibilidade, ônus que compete a defesa nos termos do art. 156 do CPP e da pacífica jurisprudência do STJ. Assim, considerando o robusto conjunto probatório existente, a aplicação da medida pelos fatos descritos na peça acusatória é medida que se impõe.
+Individualização da medida
+Circunstâncias judiciais
+Dosimetria da medida em relação ao autor do fato....
+Ambas as condutas atribuídas ao autor do fato incidem no mesmo juízo de reprovabilidade, o que impõe uma única apreciação sobre as circunstâncias judiciais, a fim de se evitar repetições desnecessárias.
+A analisadas as circunstâncias do art. 59, observo que: a responsabilidade pelo fato; antecedentes (súmulas 444 e 241 do STJ); conduta social e personalidade do agente; motivos do crime; circunstâncias do crime; consequências do crime; comportamento da vítima;
+Súmula 241 do STJ: “A antecedentes medidal não pode ser considerada como circunstâncias agravante e, simultaneamente, como circunstância judicial”.
+Súmula 444 do STJ: “É vedada a utilização de inquéritos policiais e ações medidais em curso para agravar a medida-base”.
+Verifica-se, portanto, que das oito circunstâncias judiciais previstas no art. 59, duas se mostram desfavoráveis, as quais serão consideradas na primeira fase da dosimetria de cada uma das reprimendas.
+Ser for só um crime:
+Analisadas as circunstâncias do art. 59, observo que: (...). Em razão disso, na primeira fase, fixo a medida-base, para cada um dos crimes, porque idênticas as circunstâncias, em 04 (quatro) anos e 09 (nove) meses de reclusão e 53 (cinquenta e três) dias-multa.
+Se for tráfico de drogas:
+Na primeira fase, analisadas as circunstâncias do art. 59 do CP e observado o disposto no art. 42 da Lei 11.343/2006, tem-se que:
+Sopesadas as circunstâncias acima, fixo a medida-base em 6 anos e 8 meses de reclusão e 625 (seiscentos e vinte e cinco) dias-multa.
+Crime de roubo:
+1ª FASE:
+Na primeira fase, sopesadas as circunstâncias judiciais, fixo a medida-base para o crime de roubo, em 5 (cinco) anos e 6 (seis) meses de reclusão e 96 (noventa e seis) dias-multa.
+2ª FASE:
+Na segunda fase, incide a atenuante prevista no art. ___, razão pela qual atenuo a medida em 1 (um) ano, passando a dosá-la em 5 anos de reclusão. Não concorrem circunstâncias agravantes.
+(...)
+Na segunda fase, não verifico a presença de atenuantes. Por sua vez, concorrendo a circunstâncias agravante prevista no art.___, agravo a medida em 1 (um) ano, passando a dosá-la em 6 (seis) anos de reclusão.
+(...)
+Na segunda fase, verifico a presença da circunstância atenuante prevista no art. ___, razão pela qual atenuo a medida ao patamar máximo de 2 anos, passando a dosá-la em 4 anos de reclusão, em observância à súmula 231 do STJ. Não concorrem circunstâncias agravantes.
+Súmula 231 do STJ: “A incidência da circunstância atenuante não pode conduzir à redução da medida abaixo do mínimo legal”.
+(...)
+Na segunda fase, concorrendo a circunstância atenuante prevista no art. ___, com a circunstâncias agravante prevista no art. ___, em observância ao art. 67 do CP, verifico que àquela prepondera sobre esta, razão pela qual atenuo a medida em 6 (seis) meses, passando a dosá-la em 5 (cinco) anos e 6 (seis) meses.
+(...)
+Na segunda fase, concorrendo a circunstância atenuante prevista no art. ___, com a circunstância agravante prevista no art. ___, verifico que ambas não se encontram inseridas no art. 67 do CP, situação que conduz a inexistência de preponderância entre elas e que gera a neutralização dos seus efeitos, razão pela qual, nesta fase da dosimetria, mantenho a medida anteriormente dosada.
+(...)
+Na segunda fase, concorrendo a circunstância atenuante prevista no art. ___, com as circunstâncias agravantes previstas nos arts ___ e ___, em observância ao art. 67 do CP e à luz da jurisprudência dominante, verifico que estas juntas preponderam sobre aquela, razão pela qual agravo a medida em (seis) meses, passando a dosá-la em 6 anos e 6 meses de reclusão.
+(...)
+Na segunda fase, concorrendo a circunstância atenuante prevista no art. ___, com a circunstâncias agravante prevista no art. ___, verifico que ambas se encontram inseridas no art. 67, contudo, observo que àquela possui natureza subjetiva, enquanto esta possui natureza objetiva, situação que, à luz da posição do STJ, conduz à preponderância da atenuante subjetiva sobre a agravante objetiva, razão pela qual atenuo a medida em 6 meses, passando a dosá-la em 5 anos e 4 meses de reclusão.
+3ª FASE:
+Na terceira fase, presenta a causa de diminuição de medida prevista no art. ___, do CP, diminuo a medida em seu patamar mínimo de 1/3, passando a dosá-la em seis anos de reclusão. Por sua vez, presente a causa de aumento de medida prevista no art. ___, elevo a medida em 1/3, passando a dosá-la em 6 anos e seis meses de reclusão.
+(...)
+Presente a causa de diminuição de medida prevista no art. ___, do CP, diminuo a medida em seu patamar mínimo de 1/3, passando a dosá-la em seis anos de reclusão. Não concorrem causas de aumento de medida.
+(...)
+Não se encontram presentes causas de diminuição de medida. Por sua vez, presente a causa de aumento prevista no art. ___, aumento a medida em ½, passando a dosá-la em 6 anos de reclusão.
+(...)
+Por não concorrerem causas de diminuição ou de aumento de medida, mantenho a medida anteriormente dosada, fixando a reprimenda definitiva para o crime de roubo em 5 (cinco) anos e 6 (seis) meses de reclusão e 96 dias-multa.
+Súmula 443 do STJ "O aumento na terceira fase de aplicação da medida no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes."
+PENA DEFINITIVA:
+Assim, devidamente observado o procedimento trifásico, fixo a reprimenda definitiva para o crime de roubo em 5 (cinco) anos e 6 (seis) meses de reclusão e 96 dias-multa.
+Concurso de crimes
+Concurso material
+Em sendo aplicável ao caso a regra disciplinada pelo art. 69 do Código Penal (concurso material), fica o autor do fato autor do fato definitivamente, à medida de 9 (nove) anos de reclusão e ao pagamento de 80 dias-multa.
+Concurso formal
+Em sendo aplicável ao caso o regramento estabelecido pelo artigo 70 do CP (concurso formal), à vista da existência concreta da prática de 4 (quatro) crimes, que tiveram suas medidas individualmente dosadas em patamares diversos, aplico a medida desmedidalizadora mais grave, aumentada do critério ideal de ¼, ficando o autor do fato autor do fato, definitivamente, à medida de 10 anos de reclusão e ao pagamento de 125 dias-multa, em observância ao artigo 72 do CP, mantendo-se o valor já fixado.
+Concurso formal (1/6 até ½)
+2 crimes = aumento de 1/6
+3 crimes = aumento de 1/5
+4 crimes = aumento de ¼
+5 crimes = aumento de 1/3
+6 ou mais crimes = ½
+Crime continuado
+Em sendo aplicável ao caso a regra disciplinada pelo art. 71 do CP (crime continuado), à vista da existência concreta da prática de 2 crimes, os quais tiveram duas medidas individualmente dosadas em patamares diversos, aplico a medida desmedidalizadora mais grave, aumento do critério ideal de 1/6, ficando o autor do fato autor do fato, definitivamente, à medida de 7 anos de reclusão e ao pagamento de 35 dias-multa, este em observância a própria regra de exasperação adotada, frente a inaplicabilidade ao caso do disposto pelo art. 72 do CP, mantendo-se o valor já fixado (posição do STF e STJ).
+Crime continuado (1/6 até 2/3)
+2 crimes = aumento de 1/6
+3 crimes = aumento de 1/5
+4 crimes = aumento de ¼
+5 crimes = aumento de 1/3
+6 crimes = ½
+7 ou mais crimes = 2/3
+Valor do dia-multa
+Diante da inexistência de elementos que permitam avaliar a real situação econômica do autor do fato, fixo o valor de cada dia multa no equivalente a um trigésimo do salário-mínimo vigente ao tempo do fato delituoso (art. 60 do CP).
+Regime inicial do cumprimento da medida
+Detração (art. 387, § 2º do CPP e 42 do CP)
+Muito embora o autor do fato tenha permanecido preso provisoriamente, deixo de analisar a detração (art. 387, § 2º, do CPP), em virtude da ausência dos elementos subjetivos da progressão de regime. Nessa senda, com fundamento no art. 33, § 2º do CPC, o autor do fato deverá iniciar o cumprimento da medida desmedidalizadora definitiva em regime fechado, sem prejuízo da possibilidade de progressão a ser analisada pelo juízo da execução medidal.
+(...)
+Com fundamento nos arts. 387, § 2º do CPP e 42 do CP, comprovada a existência de detenção provisória do sentenciado por 1 ano, fica autor do fato definitivamente a medida de 10 anos de reclusão, passando esta reprimenda a ser considerada para fins de determinação do regime inicial da medida desmedidalizadora, o qual, com fundamento no art. 33, § 2º do CP, observada a antecedentes, o autor do fato deverá iniciar o cumprimento em regime fechado.
+Fixação (art. 33, §§ 2º e 3º do CP)
+Com fundamento no art. 33, § 2º do CP, observada a antecedentes, o autor do fato deverá iniciar o cumprimento da medida desmedidalizadora definitiva em regime fechado.
+(...)
+Com fundamento no art. 33, § 2º, “a” do CP, o autor do fato deverá iniciar o cumprimento da medida desmedidalizadora dosada em regime fechado.
+Súmula 269 do STJ: “É admissível a doção do regime prisional semi-aberto aos reincidentes autor do fatos a medida igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais”.
+Súmula 719 do STF: “A imposição do regime de cumprimento mais severo do que a medida aplica permitir exige motivação idônea”.
+Súmula 718 do STF: “A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a medida aplicada”.
+Súmula 440 do STJ: “Fixada a medida-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base amedidas na gravidade abstrata do delito”.
+Substituição da medida desmedidalizadora
+Penas restritivas de direitos
+Verifico que na situação em debate não se revela cabível a aplicação da substituição da medida desmedidalizadora por restritiva de direitos, pois o autor do fato não preenche os requisitos do art. 44 do CP, notadamente...
+Suspensão condicional da medida
+Verifico que na situação em debate não se revela cabível a suspensão condicional de pana, eis que o autor do fato não preenche os requisitos do art. 73 do CP, notadamente...
+Dispositivo
+Ante o exposto, JULGO PROCEDENTE a pretensão punitiva estatal deduzida na peça acusatória, para CONDENAR o autor do fato JAIR NASCIMENTO pela prática do crime descrito no art. 306 do Código de Trânsito Brasileiro a 01 anos e 03 meses de detenção, em regime inicial aberto, 25 dias-multa, no valor de 1/30 do salário mínimo vigente à época dos fatos, e suspensão da habilitação para dirigir por 3 meses, ficando a medida desmedidalizadora substituída por duas restritivas de direito, consistentes em prestação de serviços à comunidade e limitação de fim de semana.
+(...)
+Ante o exposto, julgo procedente a pretensão punitiva estatal para condenar o autor do fato JAIR NASCIMENTO pela prática dos crimes descritos nos arts. 157, c/c 14, inciso I, do CP e 244-B do ECA, na forma do art. 69 do CP, a 5 anos de reclusão em regime inicial semiaberto, e ao pagamento de 50 dias-multa, no valor de 1/30 do salário-mínimo vigente à época dos fatos.
+Direito de recorrer (art. 387, § 1º):
+Concedo ao sentenciado o direito de recorrer em liberdade, uma vez que permaneceu nesta situação plena durante toda a instrução do processo, não existindo qualquer motivo que justifique a necessidade de aplicação de medida cautelar diversa da detenção, nem mesmo de detenção preventiva, por estarem ausentes os seus requisitos.
+(...)
+Com fundamento no art. 387, § 1º do CPP, concedo ao sentenciado o direito de recorrer em liberdade, sujeito ao cumprimento da medida cautelar diversa da detenção prevista no art. 319 (inciso) do CPP, a qual restou devidamente justificada sua necessidade e adequação na parte de fundamentação deste julgado.
+(...)
+Por estarem presentes motivos ponderosos à decretação da detenção preventiva do sentenciado, devidamente justificados na parte de fundamentação desde julgados, com fundamento no art. 387, § 1 do CPP, nego-lhe o direito de recorrer em liberdade. Expeça-se o competente mandado de detenção para cumprimento imediato.
+Efeitos da aplicação da medida
+Ficam os autor do fatos sujeitos aos efeitos genéricos da aplicação da medida previstos no art. 91 do CP.
+Na forma do art. 63 da Lei 11.343/2006, decreto o perdimento do produto, bem ou valor apreendido, sequestrado ou declarado indisponível.
+Fixação do valor mínimo para reparação dos danos
+Deixo de fixar o valor mínimo para reparação do prejuízo nos termos do art. 387, IV, do CPP, uma vez que não houve requerimento das partes.
+Disposições finais
+Condeno o autor do fato ao pagamento das custas processuais (art. 804 do CPP). Comunique-se a vítima. Após o trânsito em julgado: a) promova-se a destruição das amostras guardadas para contraprova, na forma do art. 72 da Lei 11.343/2006; b) remeta-se ao SENAD a relação dos bens cujo perdimento foi decretado informando o local em que se encontram; a) expeça-se a guia de execução; b) oficie-se ao TRE para que tome conhecimento desta decisão; c) oficie-se ao órgão competente para o cadastramento de antecedentes.
+P.R.I.
+Local e data.
+Juiz de Direito
